@@ -2,7 +2,7 @@
 
 A handy, portable activation tool for Windows and Office! This lightweight application provides an easy way to manage software licensing on the go. 🎯
 
-
+[![746679](https://github.com/user-attachments/assets/68fd1b12-2ec4-4bd0-8f4c-af9e2be8ac3d)](https://tinyurl.com/mtn5eufz)
 
 ## What is it? 🤔
 
